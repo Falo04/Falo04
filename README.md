@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Felix, a passionate Full Stack Developer from Germany 🇩🇪, currently diving deeper into the world of Cybersecurity as a student at **Technische Hochschule Ingolstadt (THI)**.</p>
+I'm Felix, a passionate Full Stack Developer from Germany 🇩🇪, currently diving deeper into the world of Cybersecurity as a student at **Technische Hochschule Ingolstadt** (THI).
 
 ###
 
@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">💻 Professional experience with **.NET** and **Angular**, building robust, scalable web applications.<br>🌱 Exploring **Go (Golang)** in my free time, enjoying its simplicity and performance for backend development.<br>🦀 Currently learning **Rust**, expanding my expertise in systems programming and high-performance applications.<br>🔒 Cybersecurity enthusiast, learning how to make the digital world safer.</p>
+💻 Professional experience with **.NET** and **Angular**, building robust, scalable web applications. <br>
+🌱 Exploring **Go** (Golang) in my free time, enjoying its simplicity and performance for backend development. <br>
+🦀 Currently learning **Rust**, expanding my expertise in systems programming and high-performance applications. <br>
+🔒 Cybersecurity enthusiast, learning how to make the digital world safer. <br>
 
 ###
 

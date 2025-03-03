@@ -10,10 +10,11 @@ I'm Felix, a passionate Full Stack Developer from Germany 🇩🇪, currently di
 
 ###
 
-💻 Professional experience with **.NET** and **Angular**, building robust, scalable web applications. <br>
+💻 Professional experience with **Rust** and **React**, building robust, scalable web applications. <br>
 🌱 Exploring **Go** (Golang) in my free time, enjoying its simplicity and performance for backend development. <br>
-🦀 Currently learning **Rust**, expanding my expertise in systems programming and high-performance applications. <br>
-🔒 Cybersecurity enthusiast, learning how to make the digital world safer. <br>
+🦀 Still learning **Rust**, expanding my expertise in systems programming and high-performance applications. <br>
+🔒 **Cybersecurity** enthusiast, learning how to make the digital world safer. <br>
+📌 Previously worked with **.NET** and **Angular**. <br>
 
 ###
 
@@ -33,6 +34,9 @@ I'm Felix, a passionate Full Stack Developer from Germany 🇩🇪, currently di
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###
+

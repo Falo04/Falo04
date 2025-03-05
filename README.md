@@ -12,7 +12,6 @@ I'm Felix, a passionate Full Stack Developer from Germany 🇩🇪, currently di
 
 💻 Professional experience with **Rust** and **React**, building robust, scalable web applications. <br>
 🌱 Exploring **Go** (Golang) in my free time, enjoying its simplicity and performance for backend development. <br>
-🦀 Still learning **Rust**, expanding my expertise in systems programming and high-performance applications. <br>
 🔒 **Cybersecurity** enthusiast, learning how to make the digital world safer. <br>
 📌 Previously worked with **.NET** and **Angular**. <br>
 

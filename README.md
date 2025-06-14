@@ -38,4 +38,8 @@ I'm Felix, a passionate Full Stack Developer from Germany 🇩🇪, currently di
 </div>
 
 ###
+![](https://raw.githubusercontent.com/Falo04/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Falo04/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
+![](https://raw.githubusercontent.com/Falo04/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Falo04/github-stats/master/generated/languages.svg#gh-light-mode-only)

@@ -27,6 +27,7 @@ func main() {
 		frontend: []string{"React", "Angular", "Typescript", "Tailwind"},
 		misc:     []string{"Docker", "Nginx", "PostgreSQL"},
 	}
+
 	fmt.Println("About Me:")
 	fmt.Printf("%+v\n", me)
 

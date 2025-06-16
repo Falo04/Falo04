@@ -1,33 +1,37 @@
-```rust
-#[derive(Debug)]
-struct AboutMe {
-    name: &'static str,
-    designation: &'static str,
-    base: &'static str,
+```golang
+package main
+
+import "fmt"
+
+type AboutMe struct {
+	Name        string
+	Designation string
+	Base        string
 }
 
-#[derive(Debug)]
-struct Stack {
-    backend: Vec<&'static str>,
-    frontend: Vec<&'static str>,
-    misc: Vec<&'static str>,
+type Stack struct {
+	backend  []string
+	frontend []string
+	misc     []string
 }
 
-fn main() {
-    let me = AboutMe {
-        name: "Felix",
-        designation: "Cybersecurity",
-        base: "Ingolstadt, Germany",
-    };
+func main() {
+	me := AboutMe{
+		Name:        "Felix",
+		Designation: "Cybersecurity",
+		Base:        "Ingolstadt, Germany",
+	}
 
-    let stack = Stack {
-        backend: vec!["Rust", "Go", "Python", "C", "C++"],
-        frontend: vec!["React", "Angular", "Typescript", "Tailwind"],
-        misc: vec!["Docker", "Nginx", "PostgreSQL"],
-    };
+	stack := Stack{
+		backend:  []string{"Rust", "Go", "Python", "c", "c++"},
+		frontend: []string{"React", "Angular", "Typescript", "Tailwind"},
+		misc:     []string{"Docker", "Nginx", "PostgreSQL"},
+	}
+	fmt.Println("About Me:")
+	fmt.Printf("%+v\n", me)
 
-    println!("About Me:\n{:#?}", me);
-    println!("\nMy Stack:\n{:#?}", stack);
+	fmt.Println("My Stack:")
+	fmt.Printf("%+v\n", stack)
 }
 ```
 

@@ -1,37 +1,25 @@
-```golang
-package main
+# Hey i am Felix
 
-import "fmt"
+> Cybersecurity student at [THI](https://www.thi.de/en/) in Ingolstadt, Germany
 
-type AboutMe struct {
-	Name        string
-	Designation string
-	Base        string
-}
+---
 
-type Stack struct {
-	backend  []string
-	frontend []string
-	misc     []string
-}
+**Languages**  
+`Rust` for systems & backend · `Python` for scripting & tooling
 
-func main() {
-	me := AboutMe{
-		Name:        "Felix",
-		Designation: "Cybersecurity",
-		Base:        "Ingolstadt, Germany",
-	}
+**Frontend**  
+`React` · `Tanstack` · `TypeScript` · `Tailwind`
 
-	stack := Stack{
-		backend:  []string{"Rust", "Go", "Python", "c", "c++"},
-		frontend: []string{"React", "Angular", "Typescript", "Tailwind"},
-		misc:     []string{"Docker", "Nginx", "PostgreSQL"},
-	}
+**Infra & Tools**  
+`Docker` · `PostgreSQL` · `Nats`
 
-	fmt.Println("About Me:")
-	fmt.Printf("%+v\n", me)
+---
 
-	fmt.Println("My Stack:")
-	fmt.Printf("%+v\n", stack)
-}
-```
+**Interests**  
+Web applications, homelabs, and building reliable software.
+
+**Currently**  
+
+- Building full stack apps
+- Exploring micro services
+- Diving into DevOps
